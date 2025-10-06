@@ -21,3 +21,10 @@ This repository contains Jupyter notebooks for the development and evaluation of
 
 ## Project Goal
 To develop an accurate and efficient deep learning-based system capable of detecting and classifying multiple types of LSB steganographic payloads embedded in images.
+
+## Authors & Contributors
+
+- **Norah Altowairqi** – Model development, dataset preprocessing  
+- **Alanoud Almhlbdi** – Experiment design, evaluation  
+- **Areej Alshutayri** – Project supervision 
+- **Rehab Qarout** – Project supervision
