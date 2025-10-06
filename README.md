@@ -4,19 +4,19 @@ This repository contains Jupyter notebooks for the development and evaluation of
 
 ## Files Description
 
-1. **01_payload_detection_project.ipynb**  
+1. **payload_detection_project.ipynb**  
    Initial notebook for loading datasets, preprocessing, and basic model training.
 
-2. **02_combined_payload_detection_project.ipynb**  
+2. **combined_payload_detection_project.ipynb**  
    Combines different datasets and performs comparative analysis on detection accuracy.
 
-3. **03_combined_models.ipynb**  
+3. **combined_models.ipynb**  
    Implements and compares multiple deep learning architectures (CNN, DenseNet, EfficientNet, etc.).
 
-4. **04_ViT_DeiT.ipynb**  
+4. **ViT_DeiT.ipynb**  
    Focuses on Vision Transformer (ViT) and Data-efficient Image Transformer (DeiT) models for steganography detection.
 
-5. **05_final_version.ipynb**  
+5. **final_version.ipynb**  
    Final optimized version of the model with performance evaluation and results documentation.
 
 ## Project Goal
